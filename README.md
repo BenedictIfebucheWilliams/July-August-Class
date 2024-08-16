@@ -75,3 +75,7 @@ SQL and PoweBi. (The picture below is the Outstanding Senior Data analyst, whose
 ---
 
 This statement serves as a comprehensive overview of the key components and considerations for the Sales and Data project, ensuring all stakeholders are aligned and informed.
+
+
+The diagram below are the dashboard of the Company's Sales Revenue in different countries and regions.
+![]()
