@@ -5,8 +5,8 @@ This is an Analysis to optimise inventory management for NNPC Oil and Gas Compan
 SQL and PoweBi. (The picture below is the Outstanding Senior Data analyst, whose team are behind the Project).
 
 ![](https://github.com/BenedictIfebucheWilliams/July-August-Class/blob/main/my%20future.jpg)
-## Dr. Benedict Ifebuche Williams. B.Sc, M.Sc, P.HD
-
+## Dr. Benedict Ifebuche Williams. B.Sc, M.Sc, P.hD
+#### Founder and CEO of Datainsight Tech Company
 ---
 ## Inventory Statement for Sales and Data Project – NNPC OIL AND GAS COMPANY
 
