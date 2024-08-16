@@ -78,4 +78,4 @@ This statement serves as a comprehensive overview of the key components and cons
 
 
 The diagram below are the dashboard of the Company's Sales Revenue in different countries and regions.
-![]()
+![](https://github.com/BenedictIfebucheWilliams/July-August-Class/blob/main/NNPC%20Dashboard.png)
