@@ -79,3 +79,15 @@ This statement serves as a comprehensive overview of the key components and cons
 
 The diagram below are the dashboard of the Company's Sales Revenue in different countries and regions.
 ![](https://github.com/BenedictIfebucheWilliams/July-August-Class/blob/main/NNPC%20Dashboard.png)
+
+
+## Data Modelling
+
+
+OLD MODEL                                                                                              |     NEW MODEL
+:-----------------:                                                                                    |   :------------------:
+![](https://github.com/BenedictIfebucheWilliams/July-August-Class/blob/main/books%20on%20table.png)    |   ![](https://github.com/BenedictIfebucheWilliams/July-August-Class/blob/main/books.jpg)  
+
+
+# Conclusion
+Project was done successfully
